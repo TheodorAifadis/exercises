@@ -1,2 +1,2 @@
-// This is a string
+// Skapa en string
 const dog = 'Fido'
