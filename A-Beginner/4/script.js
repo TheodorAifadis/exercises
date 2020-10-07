@@ -1,2 +1,2 @@
 // empty object
-const foo = {}
+const bruh = {}
