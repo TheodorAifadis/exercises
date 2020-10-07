@@ -1,2 +1,2 @@
-// This is an empty array
+// Skapa en tom array
 const myArray = []
