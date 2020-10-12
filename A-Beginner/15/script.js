@@ -1,6 +1,7 @@
 // Skriv en funktion som multiplicerar två tal och returnerar resultatet
 
-function calculateMath() {
-    console.log(x * y)
-}
+math(7, 3)
 
+function math(a, b){
+    console.log(a * b)
+}
