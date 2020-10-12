@@ -1,2 +1,2 @@
-// declare a constant variable to a number
+// Deklarera en konstant variabel och tilldela den ett värde.
 const X = 7
