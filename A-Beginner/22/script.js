@@ -1,7 +1,7 @@
 // Skriv funktionen isOdd
 
-console.log(isEven(6));
-
-function isEven(x) {
-    return x % 2 != 1;
+function isOdd(x) {
+    return x % 2 === 1
 }
+
+console.log(isEven(3))
