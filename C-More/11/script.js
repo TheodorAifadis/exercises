@@ -9,9 +9,9 @@ function log() {
     console.log('funktionen doTwice borde duplicera denna sträng')
 }
 
-function working() {
-    console.log('it is working')
+function funkar() {
+    console.log('korrekt')
 }
 
 doTwice(log)
-doTwice(working)
+doTwice(funkar)
